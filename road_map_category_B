@@ -1,0 +1,205 @@
+# 🤖 Category B — Machine Intelligence & Learning Systems Roadmap
+
+This roadmap applies to **all Category B skills**:
+
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing  
+- Computer Vision  
+- Optimization Techniques  
+
+This track is for roles involving **models, data, learning theory, and intelligent systems**.
+
+---
+
+## 🧠 Thinking / Problem-Solving Skills
+- Critical Thinking  
+- Analytical Reasoning  
+- Pattern Recognition  
+- Statistical Reasoning  
+- Data Interpretation  
+- Research Mindset  
+- Creativity (Feature Engineering, Model Design)  
+- Experimental Thinking *(hypothesis → test → validate → iterate)*  
+
+---
+
+## 🧮 Mathematical Foundations (Non-Negotiable)
+- Linear Algebra  
+- Calculus (Single & Multivariable)  
+- Probability and Statistics  
+- Optimization  
+  - Gradient Descent  
+  - Convex vs Non-Convex Optimization  
+- Discrete Mathematics  
+- Information Theory  
+  - Entropy  
+  - Mutual Information  
+- Graph Theory  
+  - Graph Neural Networks  
+  - Network Analysis  
+
+### 📘 Recommended Math References
+- *Mathematics for Machine Learning* — Deisenroth  
+- *Pattern Recognition and Machine Learning* — Bishop  
+- *Introduction to Statistical Learning (ISLR)* — Hastie et al.  
+- *Convex Optimization* — Boyd & Vandenberghe  
+
+---
+
+## 💻 Programming Languages & Tooling
+- Python *(Primary language)*  
+- R *(Statistics & analysis)*  
+- C++ *(Performance-critical ML systems)*  
+
+### 🧰 Engineering & Research Tools
+- Git / GitHub  
+- Jupyter Notebooks  
+- Docker  
+- Debugging & Profiling Tools  
+- Experiment Tracking *(MLflow, Weights & Biases)*  
+- Dataset & Model Versioning *(DVC)*  
+
+---
+
+## 📦 Core Libraries & Frameworks
+- NumPy  
+- Pandas  
+- Matplotlib / Seaborn  
+- Scikit-learn  
+- PyTorch  
+- TensorFlow / Keras  
+- OpenCV *(Computer Vision)*  
+- NLTK / SpaCy *(NLP)*  
+
+---
+
+## 📊 Core Learning Systems
+
+### 🧹 Data Handling & Preprocessing
+- Data Cleaning  
+- Missing Value Handling  
+- Feature Scaling  
+- Feature Encoding  
+- Feature Selection  
+
+---
+
+### 🧩 Supervised Learning
+- Regression  
+- Classification  
+- Support Vector Machines  
+- Decision Trees  
+- Ensemble Methods  
+  - Random Forest  
+  - Gradient Boosting  
+  - XGBoost / LightGBM  
+
+---
+
+### 🧭 Unsupervised Learning
+- Clustering  
+- Dimensionality Reduction  
+- Anomaly Detection  
+
+---
+
+### ⚖️ Model Evaluation & Analysis
+- Cross-Validation  
+- Bias–Variance Tradeoff  
+- Precision, Recall, F1  
+- ROC-AUC  
+- Error Analysis  
+
+---
+
+## 🧠 Deep Learning Systems
+- Neural Network Architectures  
+  - ANN  
+  - CNN  
+  - RNN  
+- Backpropagation  
+- Regularization  
+- Transfer Learning  
+- Sequence Models  
+  - LSTM  
+  - GRU  
+  - Transformers  
+- Attention Mechanisms  
+- Generative Models  
+  - GANs  
+  - VAEs  
+
+---
+
+## 🧩 Applied Domains
+
+### 📸 Computer Vision
+- Image Classification  
+- Object Detection  
+- Segmentation  
+
+### 💬 Natural Language Processing
+- Text Classification  
+- Language Models  
+- Embeddings  
+- Information Retrieval  
+
+### 🔉 Speech & Audio
+- Speech Recognition  
+- Audio Classification  
+
+### 📈 Time Series
+- Forecasting  
+- Change Point Detection  
+
+### 🧬 Specialized Applications
+- Finance  
+- Healthcare  
+- Scientific ML  
+
+---
+
+## ⚙️ MLOps & Deployment
+- Model Versioning  
+- Containerization *(Docker, Kubernetes)*  
+- APIs *(Flask, FastAPI)*  
+- Interactive Apps *(Streamlit)*  
+- Cloud ML Platforms  
+- Monitoring & Retraining  
+
+---
+
+## 📚 Learning & Practice Plan
+
+### Step 0: Theory First
+- Understand algorithms mathematically  
+- Read foundational texts  
+
+### Step 1: Implement Core Algorithms
+- Implement from scratch where possible  
+
+### Step 2: Reproduce Known Results
+- Standard datasets  
+- Benchmark comparisons  
+
+### Step 3: Read Research Papers
+- arXiv  
+- Papers With Code  
+
+### Step 4: Build Serious Projects
+- Reproducible experiments  
+- Clear documentation  
+
+### Step 5: External Validation
+- Competitions  
+- Open-source contributions  
+
+---
+
+## ⚠️ Important Principle
+
+> Do not confuse **tool usage** with **understanding**.  
+> Employers evaluate **reasoning, diagnostics, and trade-offs**, not library familiarity.
+
+Depth beats breadth in Category B.
